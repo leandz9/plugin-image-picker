@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+   <resources>
     <string name="multi_app_name">MultiImageChooser</string>
     <string name="free_version_label">Free version - Images left: %d</string>
     <string name="error_database">There was an error opening the images database. Please report the problem.</string>
@@ -11,3 +11,4 @@
     <string name="max_count_photos_title">Maximum %d Photos</string>
     <string name="max_count_photos_message">You can only select %d photos at a time.</string>
  </resources>
+
